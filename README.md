@@ -1,6 +1,9 @@
 # SabaFatima3305-Decision-Tree-Classifier-Fraud-Data-Company-Data
 
 Fraud_Check Model
+
+
+
 Use decision trees to prepare a model on fraud data 
 treating those who have taxable_income <= 30000 as "Risky" and others are "Good"
 
@@ -16,6 +19,9 @@ Urban : Whether that person belongs to urban area or not
 
 
 Model to get most important factor for the company Sale
+
+
+
 About the data: 
 Let’s consider a Company dataset with around 10 variables and 400 records. 
 The attributes are as follows: 
